@@ -1,0 +1,117 @@
+div#arriba{
+    
+    width: 1538px;
+    height: 862px;
+    margin: -20px -5px -5px -10px;
+}
+
+div#tarea{
+    background-color: rgb(0, 0, 0);
+    width: 1590px;
+    height: 155px;
+}
+div#vaca{
+
+    margin: -25px 0px 0px 25px;
+}
+div#alimento{
+
+    width: 1500px;
+    height: 10px;
+    margin: -165px 0px 0px 50px;
+    display: flex;
+	justify-content: center;
+	align-items: center;
+
+    
+}
+div#cortes{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;  
+    margin: 230px 100px 0px 50px;
+    color: black;
+}
+div#cortes:hover{
+	font-size: 22px;
+	font-family:'Courier New', Courier, monospace; 
+	margin: 230px 100px 0px 50px;
+    color: black;
+}
+
+div#paquete{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 230px -50px 0px -50px;
+
+}
+div#paquete:hover{
+	font-size: 22px;
+	font-family:'Courier New', Courier, monospace;
+	margin: 230px -50px 0px -50px;
+    color: black;
+}
+div#bebidas{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+
+    margin: 230px 50px 0px 100px;
+}
+div#bebidas:hover{
+	font-size: 22px;
+	font-family:'Courier New', Courier, monospace;
+	margin: 230px 50px 0px 100px;
+    color: black;
+}
+div#postres{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+
+    margin: 230px 50px 0px 0px;
+}
+div#postres:hover{
+	font-size: 22px;
+	font-family:'Courier New', Courier, monospace;
+	margin: 230px 50px 0px 0px;
+    color: black;
+}
+div#nombre{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+
+    margin: -32px 1000px -90px 150px;
+}
+div#centro{
+    background-image:url(imagenes/light-gray-concrete-wall.jpg);
+    width: 1590px;
+    height: 950px;
+}
+div#contacto{
+    background-color:black;
+    width: 1590px;
+    height: 230px;
+    color: white;
+    margin: 320px -5px -5px -10px;
+}
+div#platillodia{
+
+    width: 1530px;
+    height: 400px;
+}
+div#texto{
+
+    width: 1538px;
+    height: 150px;
+}
+div#toma{
+
+    margin: -50px 0px 0px 100px;
+}
+div#tomatexto{
+    font-size: 22px;
+    margin: -500px 0px 0px 700px;
+
+}
+div#cortedeldia{
+    font-size: 30px;
+    margin: 150px 0px 0px 800px;
+}

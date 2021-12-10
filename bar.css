@@ -1,0 +1,156 @@
+div#arriba{
+    
+    width: 1538px;
+    height: 862px;
+    margin: -20px -5px -5px -10px;
+}
+
+div#tarea{
+    background-color: rgb(0, 0, 0);
+    width: 1590px;
+    height: 155px;
+}
+div#vaca{
+
+    margin: -25px 0px 0px 25px;
+}
+div#alimento{
+
+    width: 1500px;
+    height: 10px;
+    margin: -165px 0px 0px 50px;
+    display: flex;
+	justify-content: center;
+	align-items: center;
+
+    
+}
+div#cortes{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 230px -50px 0px -50px;
+    color: black;
+}
+div#cortes:hover{
+	font-size: 22px;
+	font-family:'Courier New', Courier, monospace;
+	margin: 230px -50px 0px -50px;
+}
+
+div#platillo{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 230px 50px 0px 100px;
+
+}
+div#platillo:hover{
+	font-size: 22px;
+	font-family:'Courier New', Courier, monospace;
+	margin: 230px 50px 0px 100px;
+}
+div#bebidas{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+
+    margin: 230px 50px 0px 100px;
+}
+div#postres{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+
+    margin: 230px 50px 0px 0px;
+}
+div#postres:hover{
+	font-size: 22px;
+	font-family:'Courier New', Courier, monospace;
+	margin: 230px 50px 0px 0px;
+}
+div#nombre{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+
+    margin: -32px 1000px -90px 150px;
+}
+div#centro{
+    background-image:url(imagenes/light-gray-concrete-wall.jpg);
+    width: 1590px;
+    height: 2500px;
+    margin: -100px -5px -5px -10px;
+}
+div#contacto{
+    background-color:black;
+    width: 1590px;
+    height: 230px;
+    color: white;
+    margin: 700px -5px -5px 0px;
+}
+div#platillodia{
+
+    width: 1530px;
+    height: 400px;
+}
+div#texto{
+
+    width: 1538px;
+    height: 150px;
+}
+div#corte{
+    font-size: 28px;
+    margin: 250px 0px 0px 500px;
+
+}
+div#toma{
+    width: 0px;
+    height: 0px;
+    margin: 150px 0px 0px 150px;
+}
+div#toma2{
+    width: 0px;
+    height: 0px;
+    margin: 700px 0px 0px 150px;
+}div#toma3{
+    width: 0px;
+    height: 0px;
+    margin: 800px 0px 0px 150px;
+}
+div#tomatexto{
+    font-size: 20px;
+    margin: -500px 0px 0px 570px;
+}
+div#tomatexto2{
+    font-size: 20px;
+    margin: -530px 0px 0px 570px;
+}
+div#tomatexto3{
+    font-size: 20px;
+    margin: -450px 0px 0px 600px;
+}
+div#bebidatex{
+    font-size: 20px;
+    margin: -30px 0px 0px 20px;
+}
+div#bebidatex2{
+    font-size: 20px;
+    margin: -10px 0px 0px 200px;
+}
+div#bebidatex3{
+    font-size: 20px;
+    margin: -10px 0px 0px 200px;
+}
+div#arra{
+    font-size: 28px;
+    margin: -650px 0px 0px -20px;
+}
+div#arra2{
+    font-size: 28px;
+    margin: -610px 0px 0px -50px;
+}
+div#arra3{
+    font-size: 28px;
+    margin: -580px 0px 0px -90px;
+}
+
+div#cortedeldia{
+    font-size: 20px;
+    margin: 150px 0px 0px 520px;
+}

@@ -1,0 +1,150 @@
+div#arriba{
+    
+    width: 1538px;
+    height: 862px;
+    margin: -20px -5px -5px -10px;
+}
+
+div#tarea{
+    background-color: rgb(0, 0, 0);
+    width: 1590px;
+    height: 155px;
+}
+div#vaca{
+
+    margin: -25px 0px 0px 25px;
+}
+div#alimento{
+
+    width: 1500px;
+    height: 10px;
+    margin: -165px 0px 0px 50px;
+    display: flex;
+	justify-content: center;
+	align-items: center;    
+}
+
+div#cortes{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 230px -50px 0px -50px;
+}
+div#cortes:hover{
+	font-size: 22px;
+	font-family:'Courier New', Courier, monospace;
+	margin: 230px -50px 0px -50px;
+    color: black;
+}
+div#bebidas{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+
+    margin: 230px 50px 0px 100px;
+}
+div#bebidas:hover{
+	font-size: 22px;
+	font-family:'Courier New', Courier, monospace;
+	margin: 230px 50px 0px 100px;
+}
+div#postres{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+
+    margin: 230px 50px 0px 0px;
+}
+div#postres:hover{
+	font-size: 22px;
+	font-family:'Courier New', Courier, monospace;
+	margin: 230px 50px 0px 0px;
+}
+div#nombre{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+
+    margin: -32px 1000px -90px 150px;
+}
+div#centro{
+    background-image:url(imagenes/light-gray-concrete-wall.jpg);
+    width: 1590px;
+    height: 2200px;
+}
+div#contacto{
+    background-color:black;
+    width: 1590px;
+    height: 230px;
+    color: white;
+    margin: 200px -5px -5px -10px;
+}
+div#platillodia{
+
+    width: 1530px;
+    height: 400px;
+}
+div#texto{
+
+    width: 1538px;
+    height: 150px;
+}
+div#toma{
+
+    margin: 100px 0px 0px 100px;
+}
+div#tomatexto{
+    font-size: 25px;
+    margin: -120px 0px 0px 650px;
+
+}
+div#tomatexto2{
+    font-size: 25px;
+    margin: -120px 0px 0px 650px;
+
+}
+div#arra{
+    font-size: 30px;
+    margin: -420px 0px 0px 170px;
+
+}
+div#arra2{
+    font-size: 30px;
+    margin: -400px 0px 0px 170px;
+
+}
+div#arra3{
+    font-size: 30px;
+    margin: -450px 0px 0px 170px;
+
+}
+div#cortedeldia{
+    font-size: 32px;
+    margin: 150px 0px 0px 450px;
+}
+
+div#toma2{
+
+    margin: -400px 0px 0px 350px;
+}
+div#toma3{
+
+    margin: -4px 0px 0px 350px;
+}
+div#toma4{
+
+    margin: -234px 0px 0px 100px;
+}
+div#toma5{
+
+    margin: 280px 0px 0px 100px;
+}
+div#toma6{
+
+    margin: -400px 0px 0px 350px;
+}
+div#toma7{
+
+    margin: -4px 0px 0px 100px;
+}
+div#toma8{
+
+    margin: -234px 0px 0px 350px;
+}
+
